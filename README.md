@@ -3,7 +3,7 @@
 </p>
 
 
-### <div align="center">👉 Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models<div> 
+### <div align="center">⚔ Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models<div> 
 ### <div align="center"> AAAI 2025 <div> 
 
 <div align="center">
@@ -17,8 +17,8 @@
 
 ---
 ## Breaking News 🔥🔥!!
-- **🔥 `2024/12`:** 💥 Glad to announce that [MCM](https://arxiv.org/abs/2405.20775) is accepted by AAAI 2025.
-- **🎉 `2024/5`:** We are excited to officially announce the open-sourcing of MCM.
+- **🔥💥 `2024/12`:** Glad to announce that [MCM](https://arxiv.org/abs/2405.20775) is accepted by AAAI 2025.
+- **🎉🎉 `2024/5`:**  We are excited to officially announce the open-sourcing of MCM.
 
 ## Abstract
 
